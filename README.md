@@ -1,6 +1,6 @@
-# Hi, I’m Shahria Faysal👋  
+# Hi, I’m Shahria Faysal
  
-### Aspiring Software Developer | Backend & Data Enthusiast
+### Backend & Data Enthusiast
 
 I am a Computer Science student based in Dhaka, passionate about software development and backend engineering.  
 I enjoy building projects, solving problems, and learning new technologies.
