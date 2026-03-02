@@ -10,7 +10,7 @@ I enjoy building projects, solving problems, and learning new technologies.
 ## 🚀 What I'm Currently Doing
 - 🌱 Learning advanced Laravel & backend development
 - 💻 Building real-world projects with PHP & Python
-- 📊 Practicing data analysis and web scraping
+- 📊 Practicing data analysis
 - 🎯 Preparing for internship and entry-level roles
 
 ---
@@ -21,10 +21,12 @@ I enjoy building projects, solving problems, and learning new technologies.
 - PHP  
 - Python  
 - C / C++  
-- SQL  
+- SQL
+- JavaScript
 
 ### Frameworks & Libraries
-- Laravel  
+- Laravel
+- ReactJs
 - Pandas  
 - NumPy  
 - BeautifulSoup  
@@ -42,13 +44,6 @@ I enjoy building projects, solving problems, and learning new technologies.
 
 ---
 
-## 📌 Featured Projects
-
-🔹 **Data Analysis Projects**  
-EDA on Titanic, Airbnb, Chess datasets  
-👉 https://github.com/Shahria-Faysal  
-
----
 
 ## 📫 Connect With Me
 
