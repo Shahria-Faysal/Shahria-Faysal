@@ -1,48 +1,45 @@
 # Hi, I’m Shahria Faysal
- 
-### Backend & Data Enthusiast
 
-I am a Computer Science student based in Dhaka, passionate about software development and backend engineering.  
-I enjoy building projects, solving problems, and learning new technologies.
+Full-stack developer working with modern web technologies across both frontend and backend.
 
----
+I build web applications end-to-end — from UI design and frontend development to backend APIs, databases, and deployment.
 
-## 🚀 What I'm Currently Doing
-- 🌱 Learning advanced Laravel & backend development
-- 💻 Building real-world projects with PHP & Python
-- 📊 Practicing data analysis
-- 🎯 Preparing for internship and entry-level roles
+### Tech Stack
 
----
+**Frontend**
 
-## 🛠️ Tech Stack
+* React
+* JavaScript (ES6+)
+* Tailwind CSS
+* HTML / CSS
 
-### Languages
-- PHP  
-- Python  
-- C / C++  
-- SQL
-- JavaScript
+**Backend**
 
-### Frameworks & Libraries
-- Laravel
-- ReactJs
-- Pandas  
-- NumPy  
-- BeautifulSoup  
-- Scrapy  
-- Selenium  
+* Laravel
+* Node.js
+* Express.js
+* PHP
 
-### Databases
-- MySQL  
+**Database**
 
-### Concepts
-- Object-Oriented Programming (OOP)  
-- MVC Architecture   
-- Web Scraping  
-- Data Analysis  
+* MySQL
+* MongoDB
 
----
+**Other**
+
+* REST APIs
+* Authentication systems
+* Git & GitHub
+* Basic deployment workflows
+
+### What I Work On
+
+* Full-stack web applications
+* Dashboard / admin panels
+* API development and integration
+* Authentication systems (JWT, sessions, etc.)
+* CRUD-based systems with real-world structure
+* UI + backend connected applications
 
 
 ## 📫 Connect With Me
